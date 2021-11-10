@@ -8,6 +8,15 @@ lending loans to ‘risky’ applicants is the largest source of financial loss 
 the objective of this EDA study is to understand the driving factors (or driver variables)
 behind loan default, i.e. the variables which are strong indicators of default.Identification of such applicants using EDA is the aim of this case study.
 
+Introduction
+Section 1: UNDERSTANDING THE DATA
+Section 2: DATA CLEANING AND INITIAL ANALYSIS
+Section 3:Plotting Correlations between continous variables
+Section 4:Plotting Association among variables
+Section 5:Analyzing Outliers( Visualization)
+Section 6:Imputing Missing Value
+Section 7: Findings
+
 
 ## General Information
 I have used Loan dataset provided by Upgrad. datset has 111 variables.
