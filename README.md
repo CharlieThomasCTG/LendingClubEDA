@@ -27,7 +27,7 @@ Numpy- 1.20.1
 SeaBorn -0.11.1
 Sweetviz-2.1.3
 
-## Finding
+## Findings
 #### Loan status plot clearly highlights 6.5 to 1  of Fully paid to defaulters' ratio. 
 #### Company has been making one loss to every 6.5 non defaulting account
 #### home ownership plot shows that majority of the borrowers are Rented/mortgage
@@ -64,7 +64,7 @@ Sweetviz-2.1.3
 #### Strong Correlation between loan amount, amount funded by investor, amount funded by LC and installment.
 #### Interest rate, grade and sub grade shows strong association among each other, and they form a segment with strong association.
 
-## Recommendation
+## Recommendations
 #### Company should fund more loans with 36-month term as there are lesser defaulters compared to 60-month loan term.
 #### Company should fund more loans with Grade A,B and C  as there are lesser defaulters.
 #### Company should halt it’s funding for Grade G loans as it performs worst among all grades.
