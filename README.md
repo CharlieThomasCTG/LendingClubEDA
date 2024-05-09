@@ -3,7 +3,7 @@
 
 lending loans to ‘risky’ applicants is the largest source of financial loss (called credit loss). The credit loss is the amount of money lost by the lender when the borrower refuses to pay or runs away with the money owed. borrowers who default cause the largest amount of loss to the lenders.
 
-##Business Objectives 
+## Business Objectives 
 
 the objective of this EDA study is to understand the driving factors (or driver variables)
 behind loan default, i.e. the variables which are strong indicators of default.Identification of such applicants using EDA is the aim of this case study.
